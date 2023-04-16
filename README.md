@@ -29,3 +29,7 @@ nav{
 	background:linear-gradient(75deg, #6b6566, #2b2224);
 	border-radius: 10px 10px 0 0;
 }
+
+"Initiative Co.: Taking action towards a better tomorrow"
+"Initiative Co.: Empowering progress through innovation"
+"Initiative Co.: Where ideas become reality"
